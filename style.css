@@ -1,0 +1,161 @@
+
+body{
+    margin: 0%;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+#help-in-need{
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 100px;
+}
+.head-div{
+    height: 500px;
+    color: white;
+    padding: 150px 250px;
+    font-size: 18px;
+}
+.head-div h1{
+    font-size: 65px;
+    line-height: 79px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.paragraph{
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 50px;
+}
+.donate-now-button{
+    height: 500px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 16px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.donate-today h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.p-color{
+    color: #707070;
+}
+#money-box a{
+    text-decoration: none;
+    color: #707070;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 30px 30px;
+}
+#unique-box{
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+#text-input-box{
+    margin-bottom: 60px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    color: #B3B3B3;
+    line-height: 28px;
+    text-align: center;
+    width: 750px;
+    border: none;
+    border-bottom: 1px solid #dadada;
+}
+#food-shelter-edu div{
+    display: inline-block;
+    width: 380px;
+    height: 340px;
+    text-align: left;
+    padding-right: 50px;
+    padding-left: 30px;
+    padding-top: 100px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.FSE-help img{
+    height: 50px;
+    width: 50px;
+}
+.FSE-help h2{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 35px;
+}
+.FSE-help p{
+    color: #707070;
+}
+#Edu-for-child{
+    background-color: #FFF4D6;
+    border-radius: 5px;
+}
+#email-section{
+    display: inline-block;
+    height: 200px;
+    width: 800px;
+    padding: 50px 50px;
+    background-color: #FFF4D6;
+}
+#input-email{
+    border: none;
+    background-color: #D9D9D9;
+    width: 280px;
+    height: 54px;
+    margin-top: 75px;
+    padding-left: 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #AA9F9F;
+}
+#subscribe-button{
+    width: 150px;
+    background-color: #FF5959;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 16px 20px;
+    border-radius: 0 5px 5px 0;
+    margin-left: -8px;
+    color: white;
+}
+footer{
+    padding-top: 40px;
+    height: 170px;
+    line-height: 2em;
+    background-color: #121212;
+    color: white;
+}
+footer h2{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    color: #FF5959;
+}
+.section-margin{
+    margin-bottom: 80px;
+}
+#bd-flood h1{
+    font-size: 2em;
+}
+#bd-flood p{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+}
+#bd-flood{
+    display: inline-block;
+    width: 80%;
+    justify-content: center;
+}
+#bd-flood hr{
+    margin-bottom: 100px;
+}
